@@ -1,2 +1,2 @@
-# sistema-de-agendamento-de-sal-o
+# sistema-de-agendamento-de-salão
 agendamento para salão
